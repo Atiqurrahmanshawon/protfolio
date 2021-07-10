@@ -173,3 +173,18 @@
 
 
 /* achivement-contact end */
+
+
+/* footer start */
+
+.footer-menu {
+    margin-top: 12px;
+}
+
+.footer-menu a {
+    display: inline;
+    margin: 10px;
+}
+
+
+/* footer end */
